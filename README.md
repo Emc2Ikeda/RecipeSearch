@@ -11,6 +11,9 @@ Enter some keyword into the search bar and click search icon. It would show the 
 ### Filter 
 Before clicking the search icon, check the radio button "Vegan" to filter the search so that the app would only return vegan recipes. Refresh the webpage to undo this setting.
 
+## Dependencies
+node_module - included in .gitignore
+
 ## Available Scripts
 
 In the project directory, you can run:
